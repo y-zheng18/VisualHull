@@ -1,1 +1,1 @@
-LIU's assignment
+VisualHull:3D RGB reconstruction
