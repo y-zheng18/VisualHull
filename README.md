@@ -18,7 +18,7 @@ Improved algorithm:
   
 Reconstruction result:
 --
-
+![image](https://github.com/y-zheng18/VisualHull/blob/master/result.jpg)
 
 
  
